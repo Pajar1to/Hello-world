@@ -1,4 +1,5 @@
 # Hello-world
-I'm Pajarito Nice to meet You 
+# about me 
+My name is Pajarito Nice to meet You 
 i'm 18 year old 
 i'm timid 
